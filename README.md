@@ -1,5 +1,5 @@
 # Secutity checks using boto3 
-Using Boto3, pytest and moto for creating and testing scripts that checks for some vulnerabilities in aws services
+Using Boto3, pytest and moto for creating and testing scripts that checks for some vulnerabilities in some AWS services
 
 ## Available scripts 
 
